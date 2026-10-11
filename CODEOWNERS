@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Scar3max
+/src/backend/database.py      @Scar3max
+/src/backend/routers/auth.py  @Scar3max
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Scar3max
